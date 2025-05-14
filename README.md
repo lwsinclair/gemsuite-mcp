@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pv-bhat-gemsuite-mcp-badge.png)](https://mseep.ai/app/pv-bhat-gemsuite-mcp)
+
 # GemSuite MCP: The Most Comprehensive Gemini API Integration for Model Context Protocol
 #### The ultimate open-source server for advanced Gemini API interaction with Model Context Protocol (MCP), intelligently selecting models for optimal performance, minimal token cost, and seamless integration.
 <div align="center">
